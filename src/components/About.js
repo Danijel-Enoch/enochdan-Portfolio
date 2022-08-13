@@ -25,7 +25,7 @@ function About() {
                             <p>
                                 Previously worked as Full stack web developer.<br></br>
                                 The technology I've worked on : <span className="text-red ls-2">Asp.Net Core, Asp.Net Mvc, <br></br>
-                                C#, Sql, Ssms, Telerik-UI, Html, Css, Js, Bootstrap </span>
+                                php,reactjs,Solidity, Sql, Rust, Chakra-UI, Html, Css, Js, Bootstrap </span>
                             </p>
                             <p>
                                 Currently Learning React Js Library
